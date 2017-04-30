@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css?family=Scheherazade');
+
+.content-block-inner{}
+
+.content-block-inner img
+{
+    width: 100%;
+}
+.card-content-inner img
+{
+    width: 100%;
+    height: 200px;
+}
+
+.list-block .item-title {
+
+    color: brown;
+}
+iframe
+
+{
+width: 100%;
+}
+
+.presentcon img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    margin-bottom: 7;
+    height: 200px;
+    margin-bottom: 7px;
+}
+.presentcon
+{
+    margin-bottom: 100px;
+}
+.presentcon h2
+{
+          background-color: palegoldenrod;
+    color: brown;
+    padding: 5px;
+}
+.navbar-inner
+{
+    background-color: #210E11;
+    color: white;
+}
+.toolbar
+{
+    background-color: #210E11;
+
+}
+.right h5
+{
+    margin-right: 100px;
+    font-family: 'Scheherazade', serif;
+    font-size: 25px;
+}
+.content-block{
+    margin: 0px;
+    padding: 0px;
+}
+.content-block-inner {
+    padding: 0px;
+    margin-left: 0px;
+    width: 100%;
+    position: relative;
+}
+.content-block-inner::after
+
+{
+background-color: unset;
+}
+.content-block-title
+{
+
+    font-size: 20px;
+    line-height: 30px;
+        background-color: #210E11;
+    color: white;
+    text-align: right;
+    padding: 10px;
+    margin: 0px;
+    margin-top: -7px;
+
+}
+.details
+{
+    text-align: right;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+        font-weight: bold;
+    font-size: 15px;
+margin-bottom: 10px;
+}
+.trailer iframe
+{
+height: 300px;
+}
+.button.button-fill.color-red
+{
+    background-color: #210E11 !important;
+    margin-left: 10px;
+    margin: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 20px;
+}
+.row
+{
+}
+.content-block
+{
+    margin-bottom: 50px;
+}
+.s h3
+{
+background-color: #210E11 !important;
+color: white;
+padding: 5px;
+margin-top: -7px;
+margin-bottom: 0px;
+text-align: center;
+}
+.sv
+
+{
+
+
+}
+.sv iframe {
+   width: 100%;
+height: 300px;
+margin-bottom: -5px;
+}
+.t
+{
+    margin-top: -60px;
+}
+.app img
+{
+width: 100%;
+height: 100px;
+}
