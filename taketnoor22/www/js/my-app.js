@@ -2,7 +2,7 @@
          var ref;
 	   var inAppBrowserbRef;
 	   
-       inAppBrowserbRef = cordova.InAppBrowser.open('https://www.ovplatform.tk/taketnoor/www/', '_blank', 'location=no,toolbar=no');
+       inAppBrowserbRef = cordova.InAppBrowser.open('https://www.ovplatform.tk/taketnoorr/www/', '_blank', 'location=no,toolbar=no');
          inAppBrowserbRef.addEventListener('loadstart', inAppBrowserbLoadStart);
          inAppBrowserbRef.addEventListener('loadstop', inAppBrowserbLoadStop);
          inAppBrowserbRef.addEventListener('loaderror', inAppBrowserbLoadError);
