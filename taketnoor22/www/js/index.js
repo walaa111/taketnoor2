@@ -20,7 +20,7 @@ var ref
  $(window).load(function(){
    setTimeout(function(){
           window.open = cordova.InAppBrowser.open;
-          ref=cordova.InAppBrowser.open('https://www.ovplatform.tk/taketnoor/www/', '_self', 'location=no');
+          ref=cordova.InAppBrowser.open('https://www.ovplatform.tk/taketnoorr/www/', '_self', 'location=no');
           ref.hide();
           ref.addEventListener('exit', inappcallback);
           ref.addEventListener('loadstop', startcallback);
